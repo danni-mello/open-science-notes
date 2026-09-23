@@ -1,4 +1,4 @@
-\# open-science-notes
+﻿\# open-science-notes
 
 
 
@@ -21,4 +21,5 @@ Anotações e exercícios práticos de estudo do currículo NASA TOPS Open Scien
 NASA TOPS Open Science 101 Curriculum Development Team (2023).
 
 NASA TOPS Open Science 101 v1.0.0. Zenodo. https://doi.org/10.5281/zenodo.10161527 (CC BY 4.0)
+
 
